@@ -1,0 +1,2 @@
+model,training_start,training_end,test_start,test_end,test_records,MAE,RMSE,WAPE_percent,underforecast_records,overforecast_records,exact_prediction_records,actual_sales_total,absolute_error_total
+hist_gradient_boosting_extended_training,2024-04-04,2024-06-11,2024-06-12,2024-06-25,700000,0.4024503520563965,0.914854551134254,35.708292646036654,341730,358270,0,788935.078,281715.24643947755

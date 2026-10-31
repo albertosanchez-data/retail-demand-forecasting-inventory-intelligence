@@ -1,0 +1,2 @@
+﻿model,training_end,test_start,test_end,lookback_days,training_series,test_series,evaluated_series,test_records,evaluated_records,MAE,RMSE,WAPE_percent
+7_day_mean_baseline,2024-06-11,2024-06-12,2024-06-25,7,50000,50000,50000,700000,700000,0.42885382285714285,0.7200236940945424,38.0509986653173

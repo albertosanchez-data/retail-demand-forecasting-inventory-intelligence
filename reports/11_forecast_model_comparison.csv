@@ -1,0 +1,6 @@
+
+model,MAE,RMSE,WAPE_percent,WAPE_difference_vs_baseline_percentage_points,comparison_result
+7_day_mean_baseline,0.428854,0.720024,38.05,0.00,Reference model
+weekly_seasonal_naive,0.504444,0.848539,44.76,6.71,Worse than baseline
+hist_gradient_boosting_regression,0.448300,0.838080,39.78,1.73,Worse than baseline
+hist_gradient_boosting_extended_training,0.402450,0.914855,35.71,-2.34,Lower WAPE than baseline

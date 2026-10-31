@@ -1,0 +1,2 @@
+﻿model,reference_start,reference_end,test_start,test_end,training_days,forecastable_series,test_series,evaluated_series,test_records,evaluated_records,MAE,RMSE,WAPE_percent
+weekly_seasonal_naive,2024-06-05,2024-06-11,2024-06-12,2024-06-25,7,50000,50000,50000,700000,700000,0.5044439199999999,0.848539448866614,44.75789628915447

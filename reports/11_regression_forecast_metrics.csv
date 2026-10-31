@@ -1,0 +1,2 @@
+model,MAE,RMSE,WAPE_percent,training_start,training_end,test_start,test_end,training_records,test_records,training_series,test_series,features
+hist_gradient_boosting_regression,0.4483001208091542,0.838079792551963,39.776414221805965,2024-06-05,2024-06-11,2024-06-12,2024-06-25,350000,700000,50000,50000,"historical_mean,weekday_one_hot"
